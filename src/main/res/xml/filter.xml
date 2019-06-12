@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <usb-accessory model="FT232 USB-Serial" manufacturer="Future Technology Devices International" version="IC"/>
+    <usb-device vendor-id="0x0403" product-id="0x6001" />
+</resources>
