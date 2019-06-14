@@ -1,0 +1,4 @@
+com.fisplay.BF20_Android
+drawable ic_launcher
+string app_name
+xml filter

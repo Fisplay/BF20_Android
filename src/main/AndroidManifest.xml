@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.fisplay.BV4626F">
+    package="com.fisplay.BF20_Android">
 
     <uses-feature android:name="android.hardware.usb.host" />
 
